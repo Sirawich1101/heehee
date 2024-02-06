@@ -1,0 +1,24 @@
+body {
+    background-color: pink;
+  }
+  
+  button {
+    font-size: 20px;
+  }
+  
+  #loveMessage {
+    display: none;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  #fireworks {
+    display: none;
+  }
+  
+  .heart {
+    position: absolute;
+    color: red;
+    font-size: 20px;
+  }
+  
